@@ -510,6 +510,12 @@ Implications of L2-regularization on:
 - `beta` is another `hyperparameter`. `beta = 0.9` is very common and works very well in most cases.
 - In practice people don't bother implementing **bias correction**.
 
+![](Images/momentum_concept.png)
+
+#### Implementation of momentum
+
+![](Images/implementation_of_momentum.png)
+
 ### RMSprop
 
 - Stands for **Root mean square prop**.
